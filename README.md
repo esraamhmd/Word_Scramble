@@ -9,7 +9,7 @@ Word-Scramble is a web-based word unscrambling game designed to provide an inter
 - JavaScript
 
 ## Demo
-Uploading word-demo.mp4…
+https://github.com/esraamhmd/Word_Scramble/assets/145714762/5bd63804-036c-4cce-a5ca-4ddebd5a7eca
 
 ## Key Features
 - Generates random words with accompanying hints to aid in unscrambling.
