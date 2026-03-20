@@ -22,3 +22,11 @@ https://github.com/user-attachments/assets/184fc879-9a85-48b0-8503-d07c0b9167a4
 - Validates user input to ensure correct word identification.
 - Offers a word refresh button for a refreshing gameplay experience.
 
+
+
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
