@@ -1,5 +1,8 @@
 # Word-Scramble
 
+
+
+https://github.com/user-attachments/assets/184fc879-9a85-48b0-8503-d07c0b9167a4
 ## Description
 Word-Scramble is a web-based word unscrambling game designed to provide an interactive and challenging experience. Players are tasked with unscrambling randomly generated words using hints provided within the game.
 
@@ -8,10 +11,7 @@ Word-Scramble is a web-based word unscrambling game designed to provide an inter
 - CSS
 - JavaScript
 
-## Demo
 
-
-https://github.com/user-attachments/assets/184fc879-9a85-48b0-8503-d07c0b9167a4
 
 
 
